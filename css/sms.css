@@ -9,6 +9,23 @@ body {
     margin-bottom: 60px; /* Margin bottom by footer height */
 
 }
+th{
+    font-family: 'Hammersmith One', sans-serif;
+    font-size:  5vw;;
+    text-transform: uppercase;
+    font-weight:normal;
+}
+#progress {
+    height: 40px;
+
+}
+#progressBar {
+    width: 100%;
+
+}
+.progress-bar{
+    background: #337ab7 none;
+}
 .container-fluid{
     padding-left: 0px; /* voor footer*/
     padding-right: 0px;
